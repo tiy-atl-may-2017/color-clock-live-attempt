@@ -1,0 +1,16 @@
+body {
+  background: grey;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  margin-top: 30vh;
+}
+
+span {
+  font-size: 170px;
+  color: white;
+  font-family: 'Lobster', cursive;
+}
